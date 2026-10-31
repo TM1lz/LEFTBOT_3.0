@@ -1,0 +1,25 @@
+{
+  "name": "leftbot_3",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000M\u0000e\u0000u\u0000 \u0000P\u0000r\u0000o\u0000j\u0000e\u0000t\u0000o\u0000 \u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TM1lz/LEFTBOT_3.0.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/TM1lz/LEFTBOT_3.0/issues"
+  },
+  "homepage": "https://github.com/TM1lz/LEFTBOT_3.0#readme",
+  "dependencies": {
+    "@binance/connector": "^3.6.1",
+    "ws": "^8.22.0"
+  }
+}
